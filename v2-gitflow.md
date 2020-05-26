@@ -1,3 +1,4 @@
+```
 git init
 touch README.md
 git add README.md
@@ -54,3 +55,4 @@ git branch -d feature/foo
 git branch -d feature/bar
 git branch -d hotfix/fix-foo
 git branch
+```
