@@ -1,3 +1,9 @@
+# Use Git Flow as a Reliable Version Control Model
+
+### [Egghead link](https://egghead.io/lessons/git-use-git-flow-as-a-reliable-version-control-model)
+
+## Commands
+
 ```
 git init
 touch README.md
@@ -56,3 +62,8 @@ git branch -d feature/bar
 git branch -d hotfix/fix-foo
 git branch
 ```
+
+## Links
+
+[Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
